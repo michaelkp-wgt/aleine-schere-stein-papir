@@ -1,0 +1,27 @@
+{
+    "name": "Aleine schere stein papir",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "datalogger": "*",
+        "funk": "*",
+        "radio-broadcast": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.3",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
